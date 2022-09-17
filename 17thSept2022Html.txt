@@ -1,0 +1,61 @@
+Head : its a container : will hold meta data  : metadata : data about data 
+here we will provide the info about the page (meta data) : 
+title of doc : 
+style specs for your page : (beautification part of the page)
+link : it is used for providing the css spec/bootstrap specs.
+css : we can write the customized beautification spec.
+
+bootstrap : we will get some predined specs.(preferred one).
+
+scripts : to html page dynamic in nature then we have to use javascript/VBscript(outdated).
+here if we are going to use JS in your page then we have to inform this thing to the browser that we are going to use the JS
+and this info we will provide it via script tag.
+if we are using angular/react .
+title : title of your document: which is reqd for everypage.
+
+UTF-8 : is implemented by HTML, XML, java, JS, email, asp , php etc. and also it is supported by OS. and supported by the most of the browsers.
+
+
+<body> : rendering the content on the browser.
+
+<h1> : heading 1 : heading 1 style : whenever we need a big heading 
+
+<a> : anchor tag : providing the links(its a connector to go to the new page).
+href : attribute of the tag. will provide the location where you need to switch. we can navigate to external / internal resources(concerned with 
+our diff parts of application.
+<p> : pargraph tag : it will help us to hold the info in terms of paragraph.
+
+<div> divide : to divide the page content.
+
+div and section : assignment.
+
+<form> : form element is used to collect the information from the user to perform some operations based on data.
+will have several elements : 
+input:accepting the data like text/ date/ time, 
+checkbox : when we will need to accept multiple options(options are already given) 
+for example : 
+
+textarea : multiple lines of content.
+
+input type text : will accept only a line content
+name :  to refer / identify (repeated)
+id : identification unique one
+required: must be provided (mandate)
+value: the data which we will provide to the controller(element).
+placeHolder: it will display the purpose of the input & the moment you will start typing then this placeholder info will disappear.
+
+
+button : to submit the form or to perform some actions.
+
+radio button : to select only one option out of availables.  : selecting gender.
+select : will be your drop down
+option : to select the city or state/country / elements from the dropdown/ select (html).
+
+label: description.  / not preferred. ---> will consume the extra space over the screen.
+
+etc.
+
+placeHolder : will provide the info about the controller(element from the form).
+
+
+

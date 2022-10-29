@@ -1,1 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2022-09-11T09:18:26.276Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" version="20.3.0" etag="1Z6fCi2WNNmbRETx8CMi" type="github"><diagram id="u5-2ZV2s8pVmg_Ccl3QU">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-29T06:42:26.856Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="UJ400di35StjI_PrfaWi" version="20.5.1" type="github">
+  <diagram id="u5-2ZV2s8pVmg_Ccl3QU" name="Page-1">
+    <mxGraphModel dx="1426" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XI1SNofifRQ3TlaCpdaL-1" value="JavaScript : it&#39;s a scripting language which is used to provide dynamic support to HTML pages. HTML pages are static in nature. if we want to interact them dynamically or accept any data or validate the data for all such things we need to use the JS.&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="100" y="170" width="560" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="XI1SNofifRQ3TlaCpdaL-2" value="nodes serverside&lt;br&gt;angular/vue/reac" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="180" y="550" width="330" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="XI1SNofifRQ3TlaCpdaL-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=22;" edge="1" parent="1" source="XI1SNofifRQ3TlaCpdaL-3" target="XI1SNofifRQ3TlaCpdaL-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XI1SNofifRQ3TlaCpdaL-3" value="makemytrip.com" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="150" y="800" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XI1SNofifRQ3TlaCpdaL-4" value="client&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="250" y="900" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XI1SNofifRQ3TlaCpdaL-5" value="" style="whiteSpace=wrap;html=1;fontSize=22;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XI1SNofifRQ3TlaCpdaL-7" value="it is the one who will raise the request&lt;br&gt;and as per the request&amp;nbsp;&lt;br&gt;client will get the response&lt;br&gt;from the server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="90" y="970" width="390" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="XI1SNofifRQ3TlaCpdaL-8" value="Server::it&amp;nbsp;&lt;br&gt;the one who will process&lt;br&gt;recived&amp;nbsp;&lt;br&gt;request&amp;nbsp;&lt;br&gt;and will provide&lt;br&gt;the&lt;br&gt;appropriate&amp;nbsp;&lt;br&gt;response." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="660" y="900" width="390" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="XI1SNofifRQ3TlaCpdaL-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;fontSize=22;" edge="1" parent="1" source="XI1SNofifRQ3TlaCpdaL-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XI1SNofifRQ3TlaCpdaL-9" value="home page of the application." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="500" y="730" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XI1SNofifRQ3TlaCpdaL-11" value="no we will get all the response&lt;br&gt;contents&amp;nbsp;&lt;br&gt;for our home page&lt;br&gt;in terms&amp;nbsp;&lt;br&gt;of plain text." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="510" y="870" width="160" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="XI1SNofifRQ3TlaCpdaL-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="285" y="1290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XI1SNofifRQ3TlaCpdaL-13" value="front end dev" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XI1SNofifRQ3TlaCpdaL-14" value="back end dev" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="795" y="1190" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-06T15:27:55.975Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Tu6scXhLhFURYUJHYjdY" version="20.5.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-11-12T08:09:41.629Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="_Sj2xj2VzDUXEpJRILVW" version="20.5.3" type="github" pages="3">
   <diagram id="u5-2ZV2s8pVmg_Ccl3QU" name="Page-1">
     <mxGraphModel dx="1426" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -58,6 +58,23 @@
         <mxCell id="1" parent="0" />
         <mxCell id="LNpzPvsWhf2yDrzcJKEz-1" value="npm i nodemon -g&lt;br&gt;npm : node package manager which will help us to install or uninstall the packages in node env.&lt;br&gt;i: install&lt;br&gt;nodemon : name of the package : why: whenever we will do the changes in our source code then it will restart the application automatically.&lt;br&gt;-g : global : it can be used through out the system(laptop / desktop).&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="20" y="30" width="830" height="410" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="-cHyQAo5QQ5GPW--RGyk" name="Page-3">
+    <mxGraphModel dx="2253" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="G1PuP1WRjTgAohw6XcId-2" value="LibUV(its a library which is written in C++&amp;nbsp;&lt;br&gt;this lib will take care for all blocking codes in our node js platform.&lt;br&gt;it will take care for DB or file handling.&lt;br&gt;yes yes" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="130" y="430" width="840" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="G1PuP1WRjTgAohw6XcId-3" value="V8 Engine" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="460" width="140" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="G1PuP1WRjTgAohw6XcId-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="210" y="760" width="70" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
